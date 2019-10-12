@@ -21,4 +21,5 @@ def age_appropriate_birthday
     else
       puts "You are too old for this."
     end
+  end 
 end
